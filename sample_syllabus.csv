@@ -1,0 +1,49 @@
+Topic,Sub Topic,Course Outcome,Learning Outcome,Hours,Minutes
+"The Nature of Software, Software Engineering, The Software Process","Course Objectives,Course Outcomes",CO1,,1,0
+,"Defining software, Software Application Domains",CO1,,1,0
+,Legacy software,CO1,,1,0
+,Changing nature of software,CO1,,1,0
+,"Defining the discipline, the Software process",CO1,,1,0
+,Software Engineering Practice,CO1,,1,0
+,"The waterfall model, Incremental process models",CO1,,1,0
+,Evolutionary process models,CO1,,1,0
+,Evolutionary process models,CO1,,1,0
+,"The Unified Process, Personal and Team process models",CO1,,1,0
+,What Is Agility? Agility and the Cost of Change,CO1,,1,0
+,What Is an Agile Process? Extreme Programming,CO1,,1,0
+,Agile Scrum Framework,CO1,,1,0
+Software Requirements,Functional and non-functional requirements,CO2,,1,0
+,"User requirements, System requirements",CO2,,1,0
+,"Interface specification, the software requirements document.",CO2,,1,0
+,Requirements engineering process: Feasibility studies,CO2,,1,0
+,Requirements elicitation and analysis,CO2,,1,0
+,Requirements elicitation and analysis,CO2,,1,0
+,"Requirements validation, requirements management",CO2,,1,0
+"Quality, Testing, DevOps",Metrics for Software Quality,CO3,,1,0
+,"Software testing strategies: A Strategic Approach to Software Testing, Strategic Issues",CO3,,1,0
+,Test Strategies for Conventional Software,CO3,,1,0
+,Test Strategies for Conventional Software,CO3,,1,0
+,"Test Strategies for Object-Oriented Software, Context",CO3,,1,0
+,"Validation Testing, System Testing, The Art of Debugging. ",CO3,,1,0
+,RMMM Plan,CO3,,1,0
+,Introduction to DevOps: DevOps Principles and Practices,CO3,,1,0
+,7?Cs of DevOps Life Cycle for Business Agility,CO3,,1,0
+,DevOps Implementation,CO3,,1,0
+,Must Do Things for DevOps.,CO3,,1,0
+Tool Suits,Tool Suits,CO4,,1,0
+,"Tool Suits: Atlassian Tools, Phabricator",CO4,,1,0
+,"Orchestration: Jenkins-Features, Example of Reference Architecture, ",CO4,,1,0
+,Application Life Cycle Management: JIRA,CO4,,1,0
+,"Source Code Management and Quality: Bit bucket- Features, Example of Reference Architecture,",CO4,,1,0
+,"Crucible- Features, Example of Reference Architecture.",CO4,,1,0
+DevOps with Cloud ,DevOps with Cloud ,CO5,,1,0
+,"Deployment and Infrastructure Management:Liquibase,Chef, Puppet",CO5,,1,0
+,"Liquibase, Chef, Puppet",CO5,,1,0
+,"DevOps and Cloud Adoption, ",CO5,,1,0
+,AWS DevOps Governance and Controls ,CO5,,1,0
+,DevOps Governance and Controls: What is DevOps Governance and controls?   ,CO5,,1,0
+,How to implement DevOps Governance? What are DevOps Governance Benefits? Implementing DevOps Controls.,CO5,,1,0
+,"Adopting DevOps: What is a DevOps Playbook? Developing a Playbook, Implementing DevOps Playbook.    ",CO5,,1,0
+,DevOps Best Practices.,CO5,,1,0
+,DevOps Emerging Trends: Strategy Trends,CO5,,1,0
+,Technology Trends,CO5,,1,0
